@@ -2,9 +2,12 @@
 
 
 
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+
+
 [![Author](https://img.shields.io/badge/author-Victor%20Dias-blue)](https://www.linkedin.com/in/victor-rebelo-dias)  
-[![License](https://img.shields.io/badge/license-MIT-green)]  
+![License](https://img.shields.io/badge/license-MIT-green)
 
 Repositório com scripts **Shell/Bash** voltados para **DevOps**, automação de tarefas, configuração de ambiente e produtividade no Linux (Ubuntu/Debian).  
 
